@@ -1,0 +1,33 @@
+payload:
+  # ── Anthropic / Claude ────────────────────────────────
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,anthropic-cdn.com
+  # ── OpenAI / ChatGPT ──────────────────────────────────
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN,auth.openai.com
+  - DOMAIN,cdn.openai.com
+  - DOMAIN,platform.openai.com
+  - DOMAIN,api.openai.com
+  # ── Google Gemini / AI Studio ─────────────────────────
+  - DOMAIN,gemini.google.com
+  - DOMAIN,aistudio.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  # ── Microsoft Copilot / Bing AI ───────────────────────
+  # (placed before Microsoft DIRECT rules to take priority)
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,sydney.bing.com
+  - DOMAIN,edgeservices.bing.com
+  - DOMAIN-SUFFIX,bing.com
+  # ── Perplexity ────────────────────────────────────────
+  - DOMAIN-SUFFIX,perplexity.ai
+  # ── Grok (xAI) ───────────────────────────────────────
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
