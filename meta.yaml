@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,meta.com
