@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,bloomberg.net
+  - DOMAIN-SUFFIX,reuters.com
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,ft.com
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,economist.com
