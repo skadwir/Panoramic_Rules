@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,ameba.jp
+  - DOMAIN-SUFFIX,niconico.jp
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,yomiuri.co.jp
+  - DOMAIN-SUFFIX,asahi.com
+  - DOMAIN-SUFFIX,mainichi.jp
+  - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,nhk.jp
