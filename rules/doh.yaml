@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,dns.google
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN,dns.google
+  - DOMAIN-SUFFIX,dns.google
   - DOMAIN,one.one.one.one
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,nextdns.io
+  - DOMAIN-SUFFIX,dns.sb
