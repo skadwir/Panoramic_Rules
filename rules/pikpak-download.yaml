@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-WILDCARD,dl-a10b-*.mypikpak.com
+  - DOMAIN,hub.dcdn.mypikpak.com

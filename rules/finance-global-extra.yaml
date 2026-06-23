@@ -1,0 +1,10 @@
+payload:
+  # Interactive Brokers
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,ibkr.com
+
+  # uSMART: conservative first-party domains; extend after app traffic capture
+  - DOMAIN-SUFFIX,usmart.sg
+  - DOMAIN-SUFFIX,usmart.hk
+  - DOMAIN-SUFFIX,usmartglobal.com
+  - DOMAIN-SUFFIX,usmartsg.com
