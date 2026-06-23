@@ -1,7 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,redd.it
-  - DOMAIN-SUFFIX,redditmedia.com
-  - DOMAIN-SUFFIX,redditstatic.com
-  - DOMAIN-SUFFIX,reddituploads.com
-  - DOMAIN-SUFFIX,reddit-uploaded-media.s3-accelerate.amazonaws.com
