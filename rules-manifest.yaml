@@ -9,3 +9,5 @@ rules:
   microsoft-global.yaml: classical
   news-global.yaml: classical
   streaming-intl.yaml: classical
+  finance-global-extra.yaml: classical
+  pikpak-download.yaml: classical
