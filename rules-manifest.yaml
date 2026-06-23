@@ -1,0 +1,11 @@
+rules:
+  crunchyroll.yaml: classical
+  doh.yaml: classical
+  finance-cn-extra.yaml: classical
+  finance-cn-ip.yaml: ipcidr
+  jp-media.yaml: classical
+  kakao-ip.yaml: ipcidr
+  kakao.yaml: classical
+  microsoft-global.yaml: classical
+  news-global.yaml: classical
+  streaming-intl.yaml: classical
