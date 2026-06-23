@@ -1,5 +1,12 @@
 payload:
+  # 通用后缀通配（覆盖绝大多数子域名）
   - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,crunchyrollcdn.com
+  - DOMAIN-SUFFIX,crunchyrollsvc.com
   - DOMAIN-SUFFIX,crunchyroll.ca
   - DOMAIN-SUFFIX,vrv.co
-  - DOMAIN-SUFFIX,static-delivery.crunchyroll.com
+  - DOMAIN,static-delivery.crunchyroll.com
+
+  # 多层业务域名（后缀规则无法匹配，必须单独列出）
+  - DOMAIN,cr-play-service.prd.crunchyrollsvc.com
+  - DOMAIN,cr-license-proxy.prd.crunchyrollsvc.com
