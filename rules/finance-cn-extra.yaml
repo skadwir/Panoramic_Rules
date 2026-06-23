@@ -1,0 +1,27 @@
+payload:
+  # 中国银行
+  - DOMAIN-SUFFIX,boc.cn
+  - DOMAIN-SUFFIX,bocsoft.net
+  # 招商银行
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,cmbimg.com
+  # 云闪付
+  - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,unionpay.com
+  - DOMAIN-SUFFIX,uppay.cn
+  # 交通银行
+  - DOMAIN-SUFFIX,bankcomm.com
+  - DOMAIN-SUFFIX,bocomsoft.compayload:
+  # 中国银行
+  - DOMAIN-SUFFIX,boc.cn
+  - DOMAIN-SUFFIX,bocsoft.net
+  # 招商银行
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,cmbimg.com
+  # 云闪付
+  - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,unionpay.com
+  - DOMAIN-SUFFIX,uppay.cn
+  # 交通银行
+  - DOMAIN-SUFFIX,bankcomm.com
+  - DOMAIN-SUFFIX,bocomsoft.com
