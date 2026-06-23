@@ -1,35 +1,11 @@
 payload:
-  # UA 应用匹配规则
-  - USER-AGENT,KakaoTalk*,Proxy
-  - USER-AGENT,KT*,Proxy
-
-  # Kakao核心域名强制走代理
-  - DOMAIN-SUFFIX,kakao.com,Proxy
-  - DOMAIN-SUFFIX,kakao.co.kr,Proxy
-  - DOMAIN-SUFFIX,kakaocdn.net,Proxy
-
-  # Kakao & Daum 系列域名后缀
+  - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,kakao.co.kr
+  - DOMAIN-SUFFIX,kakaocdn.net
   - DOMAIN-SUFFIX,kakaoenterprise.com
   - DOMAIN-SUFFIX,kakaomap.com
   - DOMAIN-SUFFIX,kakaocorp.com
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,daumcdn.net
   - DOMAIN-SUFFIX,daumkakao.io
-  - DOMAIN-SUFFIX,daumpotplayer.com
   - DOMAIN-SUFFIX,potplayer.tv
-
-  # IP 网段（no-resolve 不解析DNS）
-  - IP-CIDR,1.201.0.0/24,no-resolve
-  - IP-CIDR,103.246.56.0/22,no-resolve
-  - IP-CIDR,103.27.148.0/22,no-resolve
-  - IP-CIDR,110.76.140.0/22,no-resolve
-  - IP-CIDR,113.61.104.0/22,no-resolve
-  - IP-CIDR,27.0.236.0/22,no-resolve
-
-  # 普通IP网段
-  - IP-CIDR,1.201.0.0/24
-  - IP-CIDR,103.246.56.0/22
-  - IP-CIDR,103.27.148.0/22
-  - IP-CIDR,110.76.140.0/22
-  - IP-CIDR,113.61.104.0/22
-  - IP-CIDR,27.0.236.0/22
